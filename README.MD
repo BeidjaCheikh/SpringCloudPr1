@@ -4,6 +4,7 @@
 <h1>Beidja Cheikh</h1>
 <h2>Master SDIA </h2><br><br>
 <img src="captures/img1.png"/><br><br>
+<h1>- Première partie : (Customer-Service, Inventory-Service, Spring Cloud Gateway, Eureka Discovery)</h1>
 <h2>1. Créer le micro service Customer-service</h2><br>
 <h4>• Créer l’entité Customer </h4><br>
 <img src="captures/img2.png"/><br><br>
@@ -76,7 +77,24 @@ une configuration Java</h3>
 <img src="captures/img28.png"/><br><br>
 <h4>product par son id </h4>
 <img src="captures/img29.png"/><br><br>
+<h1>- Deuxième Partie : Billing Service avec Open Feign Rest Client</h1>
 <h3>6. Créer Le service Billing-Service en utilisant Open Feign pour ommuniquer avec les services Customer-service et Inventory-service</h3>
+<h4>Entité Bill</h4>
+<img src="captures/img30.png"/><br><br>
+<h4>Entité ProductItm</h4>
+<img src="captures/img31.png"/><br><br>
+<h4>Customer model</h4>
+<img src="captures/img32.png"/><br><br>
+<h4>Product model</h4>
+<img src="captures/img33.png"/><br><br>
+<h4>BillRepository</h4>
+<img src="captures/img34.png"/><br><br>
+<h4>ProductItemRepository</h4>
+<img src="captures/img35.png"/><br><br>
+<h4>billingRestController</h4>
+<img src="captures/img35.png"/><br><br>
+
+
 
 
 
