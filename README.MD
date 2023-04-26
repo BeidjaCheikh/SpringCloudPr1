@@ -109,6 +109,10 @@ une configuration Java</h3>
 <img src="captures/img42.png"/><br><br>
 <h4>- Entity PRODUCT_ITEM</h4>
 <img src="captures/img43.png"/><br><br>
+<h4>-Test function getBillById()</h4>
+<img src="captures/img44.png"/><br><br>
+<h4>-Test function getBillById() mes parfois cette fois gateway </h4>
+<img src="captures/img45.png"/><br><br>
 
 
 
