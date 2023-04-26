@@ -79,25 +79,25 @@ une configuration Java</h3>
 <img src="captures/img29.png"/><br><br>
 <h1>- Deuxième Partie : Billing Service avec Open Feign Rest Client</h1>
 <h3>6. Créer Le service Billing-Service en utilisant Open Feign pour ommuniquer avec les services Customer-service et Inventory-service</h3>
-<h4>Entité Bill</h4>
+<h4>- Entité Bill</h4>
 <img src="captures/img30.png"/><br><br>
-<h4>Entité ProductItm</h4>
+<h4>- Entité ProductItm</h4>
 <img src="captures/img31.png"/><br><br>
-<h4>Customer model</h4>
+<h4>- Customer model</h4>
 <img src="captures/img32.png"/><br><br>
-<h4>Product model</h4>
+<h4>- Product model</h4>
 <img src="captures/img33.png"/><br><br>
-<h4>BillRepository</h4>
+<h4>- BillRepository</h4>
 <img src="captures/img34.png"/><br><br>
-<h4>ProductItemRepository</h4>
+<h4>- ProductItemRepository</h4>
 <img src="captures/img35.png"/><br><br>
-<h4>billingRestController</h4>
+<h4>- billingRestController</h4>
 <img src="captures/img36.png"/><br><br>
-<h4>L'interface CustomerRestClient</h4>
+<h4>- L'interface CustomerRestClient</h4>
 <img src="captures/img37.png"/><br><br>
-<h4>L'interface ProductRestClient </h4>
+<h4>- L'interface ProductRestClient </h4>
 <img src="captures/img38.png"/><br><br>
-<h4>class BillingServiceApplication</h4>
+<h4>- class BillingServiceApplication</h4>
 <img src="captures/img39.png"/><br><br>
 
 
