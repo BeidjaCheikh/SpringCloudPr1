@@ -99,6 +99,8 @@ une configuration Java</h3>
 <img src="captures/img38.png"/><br><br>
 <h4>- class BillingServiceApplication</h4>
 <img src="captures/img39.png"/><br><br>
+<h4>- application.properties</h4>
+<img src="captures/img40.png"/><br><br>
 
 
 
