@@ -101,6 +101,16 @@ une configuration Java</h3>
 <img src="captures/img39.png"/><br><br>
 <h4>- application.properties</h4>
 <img src="captures/img40.png"/><br><br>
+<h4>- Eureka Discovery</h4>
+<img src="captures/img41.png"/><br><br>
+<h4>- Entity Bill</h4>
+<img src="captures/img42.png"/><br><br>
+<h4>- Entity Bill</h4>
+<img src="captures/img42.png"/><br><br>
+<h4>- Entity PRODUCT_ITEM</h4>
+<img src="captures/img43.png"/><br><br>
+
+
 
 
 
