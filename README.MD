@@ -92,7 +92,10 @@ une configuration Java</h3>
 <h4>ProductItemRepository</h4>
 <img src="captures/img35.png"/><br><br>
 <h4>billingRestController</h4>
-<img src="captures/img35.png"/><br><br>
+<img src="captures/img36.png"/><br><br>
+<h4>L'interface CustomerRestClient</h4>
+<img src="captures/img37.png"/><br><br>
+
 
 
 
