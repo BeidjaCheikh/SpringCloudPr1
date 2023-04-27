@@ -113,7 +113,11 @@ une configuration Java</h3>
 <img src="captures/img44.png"/><br><br>
 <h4>-Test function getBillById() mes parfois cette fois gateway </h4>
 <img src="captures/img45.png"/><br><br>
-
+<h2>7. Créer un client Angular qui permet d’afficher une facture</h2>
+<h4>Installation Node js</h4>
+<img src="captures/img46.png"/><br><br>
+<h4>Angular version </h4>
+<img src="captures/img47.png"/><br><br>
 
 
 
