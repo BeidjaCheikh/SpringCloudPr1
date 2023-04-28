@@ -144,9 +144,14 @@ une configuration Java</h3>
 <img src="captures/img58.png"/>
 <img src="captures/img59.png"/><br><br>
 <h4> <b></b>Demonstration<b></b></h4><br>
+<h4> <b> Products </b></h4><br>
 <img src="captures/img60.png"/><br><br>
-
-
+<h4> <b> Customers </b></h4><br>
+<img src="captures/img61.png"/><br><br>
+<h4> <b> Bills for first customer</b></h4><br>
+<img src="captures/img62.png"/><br><br>
+<h4> <b> Bills-details for first customer</b></h4><br>
+<img src="captures/img63.png"/><br><br>
 
 
 
