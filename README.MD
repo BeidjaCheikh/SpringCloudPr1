@@ -116,8 +116,44 @@ une configuration Java</h3>
 <h2>7. Créer un client Angular qui permet d’afficher une facture</h2>
 <h4>Installation Node js</h4>
 <img src="captures/img46.png"/><br><br>
-<h4>Angular version </h4>
+<h4>L'emplacement du npm </h4><br>
+<img src="captures/img48.png"/><br><br>
+<h4>Angular version </h4><br>
 <img src="captures/img47.png"/><br><br>
+<h4>???????</h4><br>
+<img src="captures/img49.png"/><br><br>
+<h4>app-routing.module.ts</h4><br>
+<img src="captures/img50.png"/><br><br>
+<h4>products.component.ts</h4><br>
+<img src="captures/img51.png"/><br><br>
+<h4>products.component.html</h4><br>
+<img src="captures/img52.png"/><br><br>
+<h4>customers.component.ts</h4><br>
+<img src="captures/img53.png"/><br><br>
+<h4>products.component.html</h4><br>
+<img src="captures/img54.png"/><br><br>
+<h4>bills.component.ts</h4><br>
+<img src="captures/img55.png"/><br><br>
+<h4>bills.component.ts</h4><br>
+<img src="captures/img55.png"/><br><br>
+<h4>bills.component.html</h4><br>
+<img src="captures/img56.png"/><br><br>
+<h4>bills-details.component.ts</h4><br>
+<img src="captures/img57.png"/><br><br>
+<h4>bills-details.component.html</h4><br>
+<img src="captures/img58.png"/>
+<img src="captures/img59.png"/><br><br>
+<h4> <b></b>Demonstration<b></b></h4><br>
+<img src="captures/img60.png"/><br><br>
+
+
+
+
+
+
+
+
+
 
 
 
